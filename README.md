@@ -1,3 +1,3 @@
 # Spaghetti Splatting
 
-Code coming soon...
+Code coming on November 23rd
